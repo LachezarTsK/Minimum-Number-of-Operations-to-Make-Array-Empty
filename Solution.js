@@ -27,7 +27,6 @@ var minOperations = function (inputValues) {
          Math.floor((currentFrequency + 2) / 3);
          */
         minNumberOfOperationsToMakeArrayEmpty += Math.floor((currentFrequency + 2) / 3);
-
     }
     return minNumberOfOperationsToMakeArrayEmpty;
 };
