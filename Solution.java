@@ -28,8 +28,8 @@ public class Solution {
             (currentFrequency + 2) / 3;
              */
             minNumberOfOperationsToMakeArrayEmpty += (currentFrequency + 2) / 3;
-
         }
+
         return minNumberOfOperationsToMakeArrayEmpty;
     }
 }
